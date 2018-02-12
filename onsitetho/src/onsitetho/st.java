@@ -7,7 +7,7 @@ public class st {
 		System.out.println("Zdr bebce. Ko pr?");
 		
 		System.out.println("Rado e car! (master)");
-		//asaasd
+		//dasaasd
 	}
 
 }
