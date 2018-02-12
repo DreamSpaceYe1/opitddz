@@ -6,8 +6,12 @@ public class st {
 		
 		System.out.println("Zdr bebce. Ko pr?");
 		
+
 		System.out.println("Rado e car! (amaster)");
-		//dasaasdasaag
+		
+		//dasaasdasaagf
+
+
 	}
 
 }
